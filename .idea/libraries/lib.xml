@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/sqlite-jdbc-3.45.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/slf4j-api-2.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
